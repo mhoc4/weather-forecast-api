@@ -2,6 +2,15 @@
 @import "../node_modules/bootstrap/scss/variables";
 @import "../node_modules/bootstrap/scss/mixins";
 
+
+* {
+  font-size: 20px;
+  color: black;
+}
+
+body {
+  background-color:rgba($color: #8cffff, $alpha: 0.3);
+}
 a:not([href]), a:not([href]):hover {
   color: $primary;
   text-decoration: none;

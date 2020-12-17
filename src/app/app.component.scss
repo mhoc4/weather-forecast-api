@@ -1,7 +1,19 @@
+* {
+  font-size: 20px;
+  color: black;
+}
+
+div.col-sm-3.bg-light.border-right {
+  background-image: url('../assets/cloudysky.jpg');
+  max-width: 10%;
+  text-align: center;
+}
+
 .container-fluid {
   height: calc(100vh - 56px);
-
+  
   > .row {
     height: 100%;
+    
   }
 }

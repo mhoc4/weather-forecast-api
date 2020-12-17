@@ -18,4 +18,6 @@ export const loadCurrentWeatherFailed = createAction(
 export const toggleBookmark = createAction(
     '[Home] Toggle Bookmark',
     props<{ entity: Bookmark}>(),
-)
+);
+
+export const clearHomeState = createAction('[Home] Clear Home State');

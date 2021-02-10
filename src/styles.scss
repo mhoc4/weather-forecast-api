@@ -5,12 +5,14 @@
 
 * {
   font-size: 20px;
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 body {
   background-color:rgba($color: #8cffff, $alpha: 0.3);
+  background-image: url(./assets/cloudskywallpaper.jpg);
 }
+
 a:not([href]), a:not([href]):hover {
   color: $primary;
   text-decoration: none;
@@ -58,3 +60,5 @@ a:not([href]), a:not([href]):hover {
     -webkit-transform: scale(1.0);
   }
 }
+
+/* Media Queries */

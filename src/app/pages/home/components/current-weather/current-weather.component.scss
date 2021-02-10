@@ -1,7 +1,13 @@
 .card {
-    background-color: rgba($color: #00000038, $alpha: 0.1);
+    background-color: rgba($color: #00000038, $alpha: 0.3);
 }
 
 .card-body {
-    background-color: rgba($color: #00000034, $alpha: 0.2);
+    background-color: rgba($color: #00000034, $alpha: 0.3);
+}
+
+.card-link {
+    background-color: rgb(255, 255, 255);
+    border-radius: 5%;
+    padding: 2px;
 }

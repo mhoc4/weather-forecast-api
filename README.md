@@ -6,6 +6,7 @@ Este projeto foi feito usando Angular CLI versão 9.1.7.
 
 API para consultar a previsão do tempo usando [OpenWeather](https://openweathermap.org/api).
 
+Acesse: https://weather-forecast-api.vercel.app/
 
 
 ![App Print](./src/assets/print.jpg)

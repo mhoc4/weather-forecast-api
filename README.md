@@ -33,8 +33,4 @@ Acesse: https://weather-forecast-api.vercel.app/
 
   - Velocidade do vento.
 
-  - Horário do nascer do sol.
-
-  - Horário do pôr do sol.
-
   - Umidade do ar.
